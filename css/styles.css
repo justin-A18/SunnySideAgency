@@ -74,6 +74,10 @@ img{
     font-family: var(--font-Barlow-600);
 }
 
+.nav__logo{
+    margin: 0;
+}
+
 .logo-image:hover{
     animation: pulse 2.5s infinite;
     cursor: pointer;
